@@ -1,0 +1,22 @@
+{
+    "1701631069010521:2095": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1701631069402830:2196",
+            "resources": [
+                "1701631069012604:2097"
+            ]
+        }
+    },
+    "1701631069402830:2196": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Try On Pack - T Shirt/tshirt/Materials"
+            }
+        }
+    }
+}

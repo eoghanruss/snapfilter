@@ -1,0 +1,50 @@
+{
+    "1701631067290285:2070": {
+        "IResourceController": {
+            "name": "tshirt",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1701631069383860:2192",
+            "publicId": "1701631069401911:2195",
+            "expected_hash": "b465a873b107019113726736199e988b",
+            "resources": [
+                "1701631068984277:2079",
+                "1701631069010521:2095",
+                "1701631069352089:2171"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "DefaultMtl",
+                        "v": "1701631069012613:2098"
+                    }
+                ]
+            }
+        }
+    },
+    "1701631069383860:2192": {
+        "IFileManager": {
+            "path": "Files/File_1701631069383860_2192.fbx"
+        }
+    },
+    "1701631069401911:2195": {
+        "IResourceController": {
+            "public": {
+                "path": "Try On Pack - T Shirt/tshirt.fbx",
+                "hash": "b465a873b107019113726736199e988b"
+            }
+        }
+    }
+}

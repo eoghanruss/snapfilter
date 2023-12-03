@@ -1,0 +1,126 @@
+{
+    "InspectorUiComponent": {
+        "collapsedList": [
+            []
+        ]
+    },
+    "MapUiComponent": {},
+    "Material::UiComponent": {
+        "active_graph_asset": "1701631425729376:13154"
+    },
+    "MetaInfoUIComponent": {},
+    "ObjectTracking3DUIComponent": {
+        "foldedOwnerSceneObjects": []
+    },
+    "PreviewUiComponent": {},
+    "ResourceUiComponent": {
+        "collapsedList": [
+            [
+                [
+                    "Body Mesh Default"
+                ],
+                [
+                    "Body Tracking Asset"
+                ],
+                [
+                    "Echopark"
+                ],
+                [
+                    "Full Body Mesh"
+                ],
+                [
+                    "Full Body Mesh 2"
+                ],
+                [
+                    "Gold"
+                ],
+                [
+                    "Occluder"
+                ],
+                [
+                    "Text"
+                ],
+                [
+                    "Textures"
+                ],
+                [
+                    "Textures",
+                    "tshirt_d"
+                ],
+                [
+                    "Textures",
+                    "tshirt_n"
+                ],
+                [
+                    "Textures",
+                    "white"
+                ],
+                [
+                    "Try On Pack - T Shirt",
+                    "tshirt",
+                    "Materials",
+                    "DefaultMtl"
+                ],
+                [
+                    "Try On Pack - T Shirt",
+                    "tshirt",
+                    "Meshes",
+                    "tshirt_mesh"
+                ],
+                [
+                    "Try On Pack - T Shirt",
+                    "tshirt",
+                    "tshirt"
+                ],
+                [
+                    "Try On Pack - T Shirt",
+                    "tshirt_uv"
+                ],
+                [
+                    "Try On Pack - T Shirt",
+                    "tshirt_white"
+                ],
+                [
+                    "white"
+                ]
+            ]
+        ]
+    },
+    "SceneTreeUiComponent": {
+        "collapsedList": [
+            []
+        ],
+        "selectionSetList": {}
+    },
+    "Script::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "VFX::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "IFileManager": {},
+    "IResourceManager": {},
+    "LayerComponent": {},
+    "RemoteApi::ModelManager": {},
+    "RenderOrderComponent": {},
+    "WorldComponent": {},
+    "AssetImportController": {},
+    "Compression::IController": {},
+    "DigitalGoodsController": {},
+    "IResourceController": {
+        "sourcePaths": {
+            "1701631067290285:2070": "/Users/eoghanrussell/Library/Application Support/Snap/Lens Studio/cached_filesAssetLibrary/0MbdTiDyq9gNsxd#656cd45b/tshirt.fbx",
+            "1701631068986384:2081": "/Users/eoghanrussell/Library/Caches/Snap/Lens Studio/temp/StudioLhyrQdUVDnAv//system//emergencyFiles/emergencyMesh.mesh",
+            "1701631069331026:2131": "/Applications/Lens Studio.app/Contents/MacOS//../Resources/Studio3DResources.bundle/materials/textures/white.png",
+            "1701631069560303:2588": "/Users/eoghanrussell/Library/Caches/Snap/Lens Studio/temp/StudioLhyrQdUVDnAv//system//emergencyFiles/emergencyJpg.jpg",
+            "1701631069727208:2605": "/Users/eoghanrussell/Library/Caches/Snap/Lens Studio/temp/StudioLhyrQdUVDnAv//system//emergencyFiles/emergencyJpg.jpg",
+            "1701631069901315:2654": "/Users/eoghanrussell/Library/Application Support/Snap/Lens Studio/cached_filesAssetLibrary/ejsuMywFAVwyOjT#656cd45b/tshirt_uv.png",
+            "1701633151994458:51264": "/Users/eoghanrussell/Library/Caches/Snap/Lens Studio/temp/StudioLhyrQdUVDnAv//system//emergencyFiles/emergencyJpg.jpg"
+        }
+    },
+    "InspectorController": {
+        "selection": null
+    },
+    "ObjectPrefabController": {},
+    "ObjectTracking3DController": {}
+}

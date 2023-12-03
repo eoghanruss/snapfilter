@@ -1,0 +1,79 @@
+{
+    "1701631069725373:2604": {
+        "IFileManager": {
+            "path": "Files/File_1701631069725373_2604.pvr"
+        }
+    },
+    "1701631069727208:2605": {
+        "IResourceController": {
+            "name": "tshirt_d",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701631069727407:2606",
+            "fileId": "1701631069725373:2604",
+            "originalId": "1701631069728022:2611",
+            "publicId": "1701631069740921:2618",
+            "expected_hash": "7292c5d0084060784449e256aae0cf66",
+            "additional": {
+                "originHash": "24075875992b6583e6bc11d8270210cc"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1701631069727407:2606",
+            "name": "Files/File_1701631069725373_2604.jpg",
+            "flags": 1
+        }
+    },
+    "1701631069727407:2606": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "24075875992b6583e6bc11d8270210cc"
+                    },
+                    "v": "1701631102768421:2909"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "87260",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "58628",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1701631069734764:2617"
+        }
+    },
+    "1701631069728022:2611": {
+        "IFileManager": {
+            "path": "Files/File_1701631069728022_2611.png"
+        }
+    },
+    "1701631069734764:2617": {
+        "IFileManager": {
+            "path": "Files/File_1701631069734764_2617.png"
+        }
+    },
+    "1701631069740921:2618": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/tshirt_d.png",
+                "hash": "24075875992b6583e6bc11d8270210cc"
+            }
+        }
+    },
+    "1701631102768421:2909": {
+        "IFileManager": {
+            "path": "Files/File_1701631102768421_2909.pvr"
+        }
+    }
+}

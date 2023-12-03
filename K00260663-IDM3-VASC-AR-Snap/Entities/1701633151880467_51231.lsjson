@@ -1,0 +1,39 @@
+{
+    "1701633151878259:51230": {
+        "IFileManager": {
+            "path": "Files/File_1701633151878259_51230"
+        }
+    },
+    "1701633151880467:51231": {
+        "IResourceController": {
+            "name": "Gold",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1701633151880867:51232",
+            "fileId": "1701633151878259:51230",
+            "originalId": "1701633151909206:51236",
+            "publicId": "1701633152190503:51300",
+            "expected_hash": "cd256ca391e1810bdae9bd0e4f8708cb"
+        },
+        "IResourceManager": {
+            "uid": "1701633151880867:51232",
+            "name": "Files/File_1701633151878259_51230",
+            "flags": 1
+        }
+    },
+    "1701633151909206:51236": {
+        "IFileManager": {
+            "path": "Files/File_1701633151909206_51236.lsmat"
+        }
+    },
+    "1701633152190503:51300": {
+        "IResourceController": {
+            "public": {
+                "path": "Gold.lsmat",
+                "hash": "81e89f4e44201c9016044d6271a115f0"
+            }
+        }
+    }
+}
